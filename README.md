@@ -28,7 +28,7 @@ A playlist pode ser utilizada em:
 3. Cole a URL da playlist:
 
 ```text
-https://[https://raw.githubusercontent.com/yurizin09montagens/IPTV-Brasil/refs/heads/main/playlist.m3u]
+https://raw.githubusercontent.com/yurizin09montagens/IPTV-Brasil/refs/heads/main/playlist.m3u
 ```
 
 4. Clique em **Reproduzir**.
