@@ -1,0 +1,5 @@
+#EXTM3U
+
+# Exemplo de teste — substitua/adiciona streams que você tenha autorização para distribuir.
+#EXTINF:-1 tvg-name="Canal Exemplo" group-title="Teste",Canal Exemplo
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
